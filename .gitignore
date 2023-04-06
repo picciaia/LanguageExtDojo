@@ -1,0 +1,9 @@
+.vs/
+build/
+x64/
+x86/
+obj/
+bin/
+
+*.suo
+*.user
